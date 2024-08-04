@@ -1,0 +1,28 @@
+{
+	"Use_Legacy_Clip_Borders": true,
+	"Use_Legacy_Ground": true,
+	"Use_Legacy_Water": true,
+	"Use_Legacy_Objects": true,
+	"Has_Discord_Rich_Presence": false,
+	"Visible_In_Matchmaking": true,
+	"Allow_Underwater_Features": false,
+	"Status": "NONE",
+	"Creators":
+	[
+		"EZ"
+	],
+	"Thanks":
+	[
+		"Nelson",
+		"Nylex",
+		"Uncle LYHME",
+		"VTM"
+	],
+		"Trains":
+	[
+		{
+			"VehicleID": 187,
+			"RoadIndex": 5
+		}
+	]
+}
